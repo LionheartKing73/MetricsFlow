@@ -1,0 +1,9 @@
+.DS_Store
+.env
+/public/storage
+Homestead.yaml
+Homestead.json
+/vendor/
+/public/js/app.js
+/public/js/app.js.map
+/node_modules/
